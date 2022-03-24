@@ -291,3 +291,6 @@ window.onload = ()=>{
 .ne-typography-traditional.fz24 ne-uli {
   margin-bottom: 6.192px;
 }
+`;
+    document.body.appendChild(style);
+}
